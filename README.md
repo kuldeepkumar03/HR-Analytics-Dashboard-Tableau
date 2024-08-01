@@ -2,6 +2,9 @@
 ## Overview
 This repository contains a Tableau project focused on analyzing various HR metrics. The dashboard visualizes employee demographics, performance indicators, and key HR metrics to help identify trends and insights within an organization.
 
+![dashboard](https://github.com/user-attachments/assets/6aa49474-3f4e-41e7-8f5c-febe670ddd64)
+
+
 ## Dashboard Highlights
 Attrition Analysis: Visual representation of employee attrition rates across different departments, job roles, and demographics.
 Performance Metrics: Key performance indicators such as job satisfaction, environment satisfaction, and employee engagement levels.
